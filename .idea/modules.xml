@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/heroku-buildpack-nodejs-bower-gulp-bourbon-susy.iml" filepath="$PROJECT_DIR$/heroku-buildpack-nodejs-bower-gulp-bourbon-susy.iml" />
+    </modules>
+  </component>
+</project>
+
